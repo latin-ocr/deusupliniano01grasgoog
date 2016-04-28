@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deusupliniano01grasgoog_0005.png"; bbox 0 0 2720 4248; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 470 2113 961 2166">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 470 2113 961 2166">
+     <span class='ocr_line' id='line_1_1' title="bbox 470 2113 961 2166; baseline 0 -8"><span class='ocrx_word' id='word_1_1' title='bbox 470 2121 473 2130; x_wconf 84' lang='lat'><em>·</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 523 2121 703 2166; x_wconf 68' lang='lat' dir='ltr'><strong>wmonnunm,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 714 2121 789 2157; x_wconf 73' lang='lat' dir='ltr'><strong>mm</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 799 2121 823 2157; x_wconf 76' lang='lat' dir='ltr'><strong>r.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 830 2115 859 2158; x_wconf 57' lang='grc' dir='ltr'><strong>π.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 870 2113 961 2158; x_wconf 69' lang='lat' dir='ltr'><strong>mm:</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1364 4248">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1364 4248">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1364 4248; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1364 4248; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
